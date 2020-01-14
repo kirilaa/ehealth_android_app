@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "796950770118",
+    "firebase_url": "https://ehealth-samur.firebaseio.com",
+    "project_id": "ehealth-samur",
+    "storage_bucket": "ehealth-samur.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796950770118:android:564b4edbfc581d12",
+        "android_client_info": {
+          "package_name": "com.example.anton.ehealthAPP"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796950770118-d3e764ava9518lq9mb33e840r4uorq0s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anton.ehealthAPP",
+            "certificate_hash": "899b8391c7f81872cb42ad8dd74286a0947c3f74"
+          }
+        },
+        {
+          "client_id": "796950770118-g6d1gmsd60q3kjhqhvrgsetdj94epvdc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy5UUPEUaw-z6DDa4trdmIhFEU3F-SJf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796950770118-g6d1gmsd60q3kjhqhvrgsetdj94epvdc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+
+    }
+  ],
+  "configuration_version": "1"
+}
