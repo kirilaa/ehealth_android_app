@@ -35,7 +35,7 @@ public class Request extends Thread{
     public void run() {
 
         try {
-            URL url = new URL("http://163.117.166.81/comprobar.php?json="+base64json);
+            URL url = new URL("http://192.168.3.141/comprobar.php?json="+base64json);
             HttpURLConnection urlConnection = (HttpURLConnection) url.openConnection();
 
             int responseCode = urlConnection.getResponseCode();
